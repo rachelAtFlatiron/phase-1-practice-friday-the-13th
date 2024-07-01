@@ -6,8 +6,8 @@
             "release_year": 1980,
             "description": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
             "image": "./assets/f13-1.jpeg",
-            "watched": false,
-            "blood_amount": 0
+            "watched": true,
+            "blood_amount": 3
         },
         {
             "id": 2,
